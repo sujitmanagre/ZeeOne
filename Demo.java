@@ -1,8 +1,8 @@
 public class Demo {
     public static void main(String[] args) {
-        int a = 5;
-        int b = 7;
-        int c = a*b;
-        System.out.println(c);
+        int aaaaa = 5;
+        int bbbbb = 7;
+        int ccccc = aaaa*bbbbb;
+        System.out.println(ccccc);
     }
 }
